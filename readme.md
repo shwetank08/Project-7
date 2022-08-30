@@ -8,7 +8,7 @@
 
 ## Deployed Link
 
-[Link](/7.png)
+[Link](https://shwetank-project-7.netlify.app/)
 
 ## Tech stack used
 
